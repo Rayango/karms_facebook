@@ -23,7 +23,7 @@ class PostList extends React.Component {
   }
   render() {
     return (
-      <div>
+      <div className="postList">
         <CreatePost onClick={this.receivePostText.bind(this)} getAllPosts={this.props.getAllPosts.bind(this)} />
         <br />
         {
