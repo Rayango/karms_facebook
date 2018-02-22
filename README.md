@@ -1,6 +1,4 @@
-# KARMS FACEBOOK
-
-> Pithy project description
+# Rebasebook
 
 ## Team
 
@@ -10,45 +8,21 @@
   - Ryan Ngo
   - Shubhra Jain
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-1. [Roadmap](#roadmap)
-1. [Contributing](#contributing)
-
 ## Usage
 
-> Some usage instructions
+1. Login with your username, or sign up if you do not yet have one.
+2. Now you are free to do whatever you like!  Some of the things you can do:
+   * Like comments, unlike comments
+   * Browse user profiles
+   * Add users as friends
+   * Edit your profile information, and pictures
+   * Make a post
+3. Don't forget to logout when you are finished!
 
-## Requirements
-
-- Node 6.4.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
-
-## Development
-
-### Installing Dependencies
+## Installing Dependencies
 
 From within the root directory:
 
 ```sh
-npm install -g bower
 npm install
-bower install
 ```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_DOC)
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
